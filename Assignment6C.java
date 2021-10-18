@@ -70,7 +70,7 @@ class Assignment6C {
       }
     } while (counter < size);
 
-    if (counter == 6) {
+    if (counter == size) {
       System.out.println("You win!");
     }
   }
